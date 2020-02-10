@@ -19,3 +19,8 @@ Graphite / Grafana / ELK / Prometheus
 SQL / NO-SQL DB's
 Docker (Swarm / Kubernetes)
 HashiCorp (Packer / Terraform / Vault / Consul)
+
+
+
+Devops flows
+
